@@ -2,7 +2,8 @@
 
 Auto-complete is a feature in which an application predicts the rest of a word a user is typing (predictive text). In this project I aim to build a prototype of an auto-complete system. This project uses N-grams, a simple but powerful method for language modeling.
 
-Dataset: Text corpus from twitter
+Dataset: Text corpus from twitter  
+Link: https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip (en_US.twitter)
 
 
 Steps involved: 
